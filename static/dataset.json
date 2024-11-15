@@ -1,0 +1,162 @@
+[
+	{
+		"Name": "iPhone 14 Pro",
+		"Description": "Apple's flagship phone with stunning features and top-tier performance.",
+		"Brand": "Apple",
+		"Price": 1099.99,
+		"Release Date": 2022,
+		"Rating": 4.85
+	},
+	{
+		"Name": "Samsung Galaxy S22 Ultra",
+		"Description": "A powerful Android phone with advanced camera features and a sleek design.",
+		"Brand": "Samsung",
+		"Price": 1199.99,
+		"Release Date": 2022,
+		"Rating": 4.72
+	},
+	{
+		"Name": "Oppo Reno 6 Pro",
+		"Description": "A stunning Android phone with a great camera and fast charging.",
+		"Brand": "Oppo",
+		"Price": 449.99,
+		"Release Date": 2021,
+		"Rating": 4.24
+	},
+	{
+		"Name": "Google Pixel 6",
+		"Description": "A pure Android experience with excellent computational photography.",
+		"Brand": "Google",
+		"Price": 599.99,
+		"Release Date": 2021,
+		"Rating": 4.15
+	},
+	{
+		"Name": "OnePlus 9 Pro",
+		"Description": "A high-end flagship with fast charging and powerful performance.",
+		"Brand": "OnePlus",
+		"Price": 1069.99,
+		"Release Date": 2021,
+		"Rating": 4.68
+	},
+	{
+		"Name": "Xiaomi Mi 11",
+		"Description": "An affordable flagship with a gorgeous display and solid camera setup.",
+		"Brand": "Xiaomi",
+		"Price": 749.99,
+		"Release Date": 2021,
+		"Rating": 4.3
+	},
+	{
+		"Name": "Sony Xperia 1 III",
+		"Description": "A phone built for photographers and videographers with advanced camera features.",
+		"Brand": "Sony",
+		"Price": 1299.99,
+		"Release Date": 2021,
+		"Rating": 4.52
+	},
+	{
+		"Name": "Huawei P50 Pro",
+		"Description": "An all-around premium phone with impressive hardware and camera performance.",
+		"Brand": "Huawei",
+		"Price": 1199.99,
+		"Release Date": 2021,
+		"Rating": 4.45
+	},
+	{
+		"Name": "Motorola Edge+",
+		"Description": "A flagship Motorola device with excellent screen quality and fast charging.",
+		"Brand": "Motorola",
+		"Price": 999.99,
+		"Release Date": 2020,
+		"Rating": 4.07
+	},
+	{
+		"Name": "Asus ROG Phone 5",
+		"Description": "A gaming phone with an exceptional display, battery, and performance.",
+		"Brand": "Asus",
+		"Price": 1099.99,
+		"Release Date": 2021,
+		"Rating": 4.7
+	},
+	{
+		"Name": "Nokia 8.3 5G",
+		"Description": "A budget-friendly 5G phone with a clean Android experience and good battery life.",
+		"Brand": "Nokia",
+		"Price": 699.99,
+		"Release Date": 2020,
+		"Rating": 4.12
+	},
+	{
+		"Name": "Realme GT",
+		"Description": "A fast and affordable Android phone with a stylish design.",
+		"Brand": "Realme",
+		"Price": 479.99,
+		"Release Date": 2021,
+		"Rating": 4.34
+	},
+	{
+		"Name": "Vivo X70 Pro+",
+		"Description": "A photography-focused smartphone with premium build quality.",
+		"Brand": "Vivo",
+		"Price": 1099.99,
+		"Release Date": 2021,
+		"Rating": 4.6
+	},
+	{
+		"Name": "LG Velvet",
+		"Description": "A mid-range Android phone with an elegant design and capable camera system.",
+		"Brand": "LG",
+		"Price": 699.99,
+		"Release Date": 2020,
+		"Rating": 4.18
+	},
+	{
+		"Name": "Samsung Galaxy A52 5G",
+		"Description": "A solid mid-range phone with 5G connectivity and a great display.",
+		"Brand": "Samsung",
+		"Price": 499.99,
+		"Release Date": 2021,
+		"Rating": 4.39
+	},
+	{
+		"Name": "Honor 50",
+		"Description": "A stylish mid-range phone with strong performance and decent camera capabilities.",
+		"Brand": "Honor",
+		"Price": 429.99,
+		"Release Date": 2021,
+		"Rating": 4.23
+	},
+	{
+		"Name": "LG V60 ThinQ",
+		"Description": "A powerful phone with a huge battery and a large screen.",
+		"Brand": "LG",
+		"Price": 799.99,
+		"Release Date": 2020,
+		"Rating": 4.1
+	},
+	{
+		"Name": "ZTE Axon 20 5G",
+		"Description": "The world's first under-display camera phone with a sleek design and 5G connectivity.",
+		"Brand": "ZTE",
+		"Price": 649.99,
+		"Release Date": 2020,
+		"Rating": 3.99
+	},
+	{
+		"Name": "Apple iPhone SE (2020)",
+		"Description": "An affordable iPhone with great performance in a compact design.",
+		"Brand": "Apple",
+		"Price": 399.99,
+		"Release Date": 2020,
+		"Rating": 4.5
+	},
+	{
+		"Name": "Nokia Lumia 1020",
+		"Description": "One of the best camera phones of its time with a stunning 41 MP camera.",
+		"Brand": "Nokia",
+		"Price": 699.99,
+		"Release Date": 2013,
+		"Rating": 4.25
+	}
+]
